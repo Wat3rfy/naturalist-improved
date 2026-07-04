@@ -4,6 +4,11 @@
     "minecraft:plains",
     "minecraft:swamp",
     "minecraft:mangrove_swamp",
+    "minecraft:meadow",
+    "minecraft:river",
+    "minecraft:sparse_jungle",
+    "minecraft:birch_forest",
+    "minecraft:old_growth_birch_forest",
     {
       "id": "#c:is_swamp",
       "required": false

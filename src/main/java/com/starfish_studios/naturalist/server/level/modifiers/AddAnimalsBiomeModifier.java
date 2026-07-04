@@ -24,7 +24,7 @@ public class AddAnimalsBiomeModifier implements BiomeModifier {
             addIfValid(builder, biome, NaturalistTags.Biomes.HAS_BEAR, NaturalistTags.Biomes.BLACKLIST_BEAR, MobCategory.CREATURE, NaturalistEntityTypes.BEAR.get(), 10, 1, 2);
             addIfValid(builder, biome, NaturalistTags.Biomes.HAS_BLUEJAY, NaturalistTags.Biomes.BLACKLIST_BLUEJAY, MobCategory.CREATURE, NaturalistEntityTypes.BLUEJAY.get(), 10, 3, 4);
             addIfValid(builder, biome, NaturalistTags.Biomes.HAS_BOAR, NaturalistTags.Biomes.BLACKLIST_BOAR, MobCategory.CREATURE, NaturalistEntityTypes.BOAR.get(), 10, 3, 4);
-            addIfValid(builder, biome, NaturalistTags.Biomes.HAS_BUTTERFLY, NaturalistTags.Biomes.BLACKLIST_BUTTERFLY, MobCategory.AMBIENT, NaturalistEntityTypes.BUTTERFLY.get(), 10, 3, 6);
+            addIfValid(builder, biome, NaturalistTags.Biomes.HAS_BUTTERFLY, NaturalistTags.Biomes.BLACKLIST_BUTTERFLY, MobCategory.AMBIENT, NaturalistEntityTypes.BUTTERFLY.get(), 40, 3, 6);
             addIfValid(builder, biome, NaturalistTags.Biomes.HAS_CANARY, NaturalistTags.Biomes.BLACKLIST_CANARY, MobCategory.CREATURE, NaturalistEntityTypes.CANARY.get(), 10, 3, 4);
             addIfValid(builder, biome, NaturalistTags.Biomes.HAS_CARDINAL, NaturalistTags.Biomes.BLACKLIST_CARDINAL, MobCategory.CREATURE, NaturalistEntityTypes.CARDINAL.get(), 10, 3, 4);
             addIfValid(builder, biome, NaturalistTags.Biomes.HAS_CATFISH, NaturalistTags.Biomes.BLACKLIST_CATFISH, MobCategory.WATER_AMBIENT, NaturalistEntityTypes.CATFISH.get(), 10, 1, 2);
